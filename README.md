@@ -1,6 +1,5 @@
-### Hi there 👋
+###  👋
 
-This will be all about my work
 <!--
 **liocle/liocle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
