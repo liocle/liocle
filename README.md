@@ -2,8 +2,6 @@
 
 🫴 Some pinned projects part of my C and C++ programing education at Hive Helsinki (42 network).
 
-🌱 Currently learning C++.
-
 📫 💬 👉 [![LinkedIn](https://img.shields.io/badge/Lionel%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lionelclerc/)
 
 
