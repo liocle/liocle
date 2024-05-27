@@ -1,6 +1,6 @@
 ###  👋 Hi, I'm Lionel!
 
-🫴 Some pinned projects part of my C programing education at Hive Helsinki (42 network).
+🫴 Some pinned projects part of my C and C++ programing education at Hive Helsinki (42 network).
 
 🌱 Currently learning C++.
 
